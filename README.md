@@ -1,2 +1,2 @@
 # treport1
- Pedido de Venda por Cliente
+ 	Relatório de Pedido de Venda por Cliente.
