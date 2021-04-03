@@ -3,7 +3,7 @@
   
   Este Relatório é Dedicados aos Programadores ADVPL.
   
-  Base de relatório simples.
+  * Base de relatório simples.
 ===
  
 
